@@ -3217,6 +3217,22 @@
     ],
     "timestamp": "Jan/29/2021 21:23"
   },
+  "CF94457938": {
+    "contest_id": 263,
+    "language": "Java 11",
+    "path": "codeforces/263/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Beautiful Matrix",
+    "problem_url": "https://codeforces.com/contest/263/problem/A",
+    "submission_id": "CF94457938",
+    "submission_url": "https://codeforces.com/contest/263/submission/94457938",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/02/2020 11:23"
+  },
   "CF94462415": {
     "contest_id": 339,
     "language": "Java 11",
