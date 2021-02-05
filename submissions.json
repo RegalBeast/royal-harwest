@@ -3361,6 +3361,23 @@
     ],
     "timestamp": "Jan/29/2021 21:23"
   },
+  "CF106588915": {
+    "contest_id": 1481,
+    "language": "Java 11",
+    "path": "codeforces/1481/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "New Colony",
+    "problem_url": "https://codeforces.com/contest/1481/problem/B",
+    "submission_id": "CF106588915",
+    "submission_url": "https://codeforces.com/contest/1481/submission/106588915",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Feb/05/2021 21:24"
+  },
   "CF94415312": {
     "contest_id": 4,
     "language": "Java 11",
