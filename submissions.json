@@ -1263,6 +1263,22 @@
     ],
     "timestamp": "Feb/02/2021 10:11"
   },
+  "AC19962161": {
+    "contest_id": "abc191",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc191/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Remove It",
+    "problem_url": "https://atcoder.jp/contests/abc191/tasks/abc191_b",
+    "submission_id": "AC19962161",
+    "submission_url": "https://atcoder.jp/contests/abc191/submissions/19962161",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Feb/06/2021 17:37"
+  },
   "CF100079184": {
     "contest_id": 1006,
     "language": "Java 11",
