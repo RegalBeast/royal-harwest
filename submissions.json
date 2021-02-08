@@ -3465,6 +3465,23 @@
     ],
     "timestamp": "Feb/05/2021 21:24"
   },
+  "CF106885057": {
+    "contest_id": 1480,
+    "language": "Java 11",
+    "path": "codeforces/1480/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Great Hero",
+    "problem_url": "https://codeforces.com/contest/1480/problem/B",
+    "submission_id": "CF106885057",
+    "submission_url": "https://codeforces.com/contest/1480/submission/106885057",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "timestamp": "Feb/08/2021 12:44"
+  },
   "CF106888077": {
     "contest_id": 1480,
     "language": "Java 11",
