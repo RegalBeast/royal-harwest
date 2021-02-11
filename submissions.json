@@ -1343,6 +1343,22 @@
     ],
     "timestamp": "Feb/06/2021 17:37"
   },
+  "AC20114728": {
+    "contest_id": "abc057",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc057/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Digits in Multiplication",
+    "problem_url": "https://atcoder.jp/contests/abc057/tasks/abc057_c",
+    "submission_id": "AC20114728",
+    "submission_url": "https://atcoder.jp/contests/abc057/submissions/20114728",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/12/2021 04:57"
+  },
   "CF100079184": {
     "contest_id": 1006,
     "language": "Java 11",
