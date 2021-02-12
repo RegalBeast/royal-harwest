@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+515 | [B - Comparison](https://atcoder.jp/contests/abc059/tasks/abc059_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc059/B.java) | `AtCoder` `*200` | Feb/13/2021 01:47 | 
 514 | [C - Digits in Multiplication](https://atcoder.jp/contests/abc057/tasks/abc057_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc057/C.java) | `AtCoder` `*300` | Feb/12/2021 04:57 | 
 513 | [B - Checkpoints](https://atcoder.jp/contests/abc057/tasks/abc057_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc057/B.java) | `AtCoder` `*200` | Feb/12/2021 02:31 | 
 512 | [A - Remaining Time](https://atcoder.jp/contests/abc057/tasks/abc057_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc057/A.java) | `AtCoder` `*100` | Feb/12/2021 02:24 | 
