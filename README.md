@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-518 | [B - Comparison](https://atcoder.jp/contests/abc059/tasks/abc059_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc059/B.java) | `AtCoder` `*200` | Feb/13/2021 01:47 | 
-517 | [A - Three-letter acronym](https://atcoder.jp/contests/abc059/tasks/abc059_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc059/A.java) | `AtCoder` `*100` | Feb/13/2021 01:43 | 
-516 | [D - ###](https://atcoder.jp/contests/abc058/tasks/arc071_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc058/D.java) | `AtCoder` `*500` | Feb/12/2021 18:26 | 
-515 | [C - Dubious Document](https://atcoder.jp/contests/abc058/tasks/arc071_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc058/C.java) | `AtCoder` `*300` | Feb/12/2021 17:29 | 
+519 | [B - Comparison](https://atcoder.jp/contests/abc059/tasks/abc059_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc059/B.java) | `AtCoder` `*200` | Feb/13/2021 01:47 | 
+518 | [A - Three-letter acronym](https://atcoder.jp/contests/abc059/tasks/abc059_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc059/A.java) | `AtCoder` `*100` | Feb/13/2021 01:43 | 
+517 | [D - ###](https://atcoder.jp/contests/abc058/tasks/arc071_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc058/D.java) | `AtCoder` `*500` | Feb/12/2021 18:26 | 
+516 | [C - Dubious Document](https://atcoder.jp/contests/abc058/tasks/arc071_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc058/C.java) | `AtCoder` `*300` | Feb/12/2021 17:29 | 
+515 | [B - ∵∴∵](https://atcoder.jp/contests/abc058/tasks/abc058_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc058/B.java) | `AtCoder` `*200` | Feb/12/2021 17:20 | 
 514 | [C - Digits in Multiplication](https://atcoder.jp/contests/abc057/tasks/abc057_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc057/C.java) | `AtCoder` `*300` | Feb/12/2021 04:57 | 
 513 | [B - Checkpoints](https://atcoder.jp/contests/abc057/tasks/abc057_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc057/B.java) | `AtCoder` `*200` | Feb/12/2021 02:31 | 
 512 | [A - Remaining Time](https://atcoder.jp/contests/abc057/tasks/abc057_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc057/A.java) | `AtCoder` `*100` | Feb/12/2021 02:24 | 
