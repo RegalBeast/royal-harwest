@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-527 | [C - Minimum Ties](https://codeforces.com/contest/1487/problem/C) | [Java 11](./codeforces/1487/C.java) | `constructive algorithms` `dfs and similar` `graphs` `greedy` `implementation` `math` `matrices` | Feb/15/2021 21:58 | 
-526 | [D - Pythagorean Triples](https://codeforces.com/contest/1487/problem/D) | [Java 11](./codeforces/1487/D.java) | `binary search` `brute force` `math` `number theory` | Feb/15/2021 21:21 | 
-525 | [B - Cat Cycle](https://codeforces.com/contest/1487/problem/B) | [Java 11](./codeforces/1487/B.java) | `math` `number theory` | Feb/15/2021 20:27 | 
+528 | [C - Minimum Ties](https://codeforces.com/contest/1487/problem/C) | [Java 11](./codeforces/1487/C.java) | `constructive algorithms` `dfs and similar` `graphs` `greedy` `implementation` `math` `matrices` | Feb/15/2021 21:58 | 
+527 | [D - Pythagorean Triples](https://codeforces.com/contest/1487/problem/D) | [Java 11](./codeforces/1487/D.java) | `binary search` `brute force` `math` `number theory` | Feb/15/2021 21:21 | 
+526 | [B - Cat Cycle](https://codeforces.com/contest/1487/problem/B) | [Java 11](./codeforces/1487/B.java) | `math` `number theory` | Feb/15/2021 20:27 | 
+525 | [A - Arena](https://codeforces.com/contest/1487/problem/A) | [Java 11](./codeforces/1487/A.java) | `implementation` `sortings` | Feb/15/2021 20:09 | 
 524 | [B - Comparison](https://atcoder.jp/contests/abc059/tasks/abc059_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc059/B.java) | `AtCoder` `*200` | Feb/13/2021 01:47 | 
 523 | [A - Three-letter acronym](https://atcoder.jp/contests/abc059/tasks/abc059_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc059/A.java) | `AtCoder` `*100` | Feb/13/2021 01:43 | 
 522 | [C - Floor and Mod](https://codeforces.com/contest/1485/problem/C) | [Java 11](./codeforces/1485/C.java) | `binary search` `brute force` `math` `number theory` `*1700` | Feb/12/2021 21:50 | 
