@@ -3753,6 +3753,27 @@
     ],
     "timestamp": "Feb/12/2021 21:50"
   },
+  "CF107466335": {
+    "contest_id": 1487,
+    "language": "Java 11",
+    "path": "codeforces/1487/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Minimum Ties",
+    "problem_url": "https://codeforces.com/contest/1487/problem/C",
+    "submission_id": "CF107466335",
+    "submission_url": "https://codeforces.com/contest/1487/submission/107466335",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "implementation",
+      "math",
+      "matrices"
+    ],
+    "timestamp": "Feb/15/2021 21:58"
+  },
   "CF94415312": {
     "contest_id": 4,
     "language": "Java 11",
