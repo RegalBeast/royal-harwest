@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-529 | [D - 3N Numbers](https://atcoder.jp/contests/abc062/tasks/arc074_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc062/D.java) | `AtCoder` `*500` | Feb/22/2021 00:12 | 
+530 | [D - 3N Numbers](https://atcoder.jp/contests/abc062/tasks/arc074_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc062/D.java) | `AtCoder` `*500` | Feb/22/2021 00:12 | 
+529 | [B - Picture Frame](https://atcoder.jp/contests/abc062/tasks/abc062_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc062/B.java) | `AtCoder` `*200` | Feb/21/2021 23:12 | 
 528 | [C - Minimum Ties](https://codeforces.com/contest/1487/problem/C) | [Java 11](./codeforces/1487/C.java) | `constructive algorithms` `dfs and similar` `graphs` `greedy` `implementation` `math` `matrices` | Feb/15/2021 21:58 | 
 527 | [D - Pythagorean Triples](https://codeforces.com/contest/1487/problem/D) | [Java 11](./codeforces/1487/D.java) | `binary search` `brute force` `math` `number theory` | Feb/15/2021 21:21 | 
 526 | [B - Cat Cycle](https://codeforces.com/contest/1487/problem/B) | [Java 11](./codeforces/1487/B.java) | `math` `number theory` | Feb/15/2021 20:27 | 
