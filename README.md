@@ -13,32 +13,33 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-564 | [C - Digital Graffiti](https://atcoder.jp/contests/abc191/tasks/abc191_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc191/C.java) | `AtCoder` `*300` | Mar/17/2021 13:32 | 
-563 | [D - Shipping Center](https://atcoder.jp/contests/abc195/tasks/abc195_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc195/D.java) | `AtCoder` `*400` | Mar/16/2021 18:14 | 
-562 | [C - Comma](https://atcoder.jp/contests/abc195/tasks/abc195_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc195/C.java) | `AtCoder` `*300` | Mar/16/2021 17:50 | 
-561 | [B - Many Oranges](https://atcoder.jp/contests/abc195/tasks/abc195_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc195/B.java) | `AtCoder` `*200` | Mar/16/2021 17:40 | 
-560 | [A - Health M Death](https://atcoder.jp/contests/abc195/tasks/abc195_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc195/A.java) | `AtCoder` `*100` | Mar/16/2021 17:32 | 
-559 | [D - Grid Coloring](https://atcoder.jp/contests/abc069/tasks/arc080_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc069/D.java) | `AtCoder` `*400` | Feb/28/2021 18:11 | 
-558 | [C - 4-adjacent](https://atcoder.jp/contests/abc069/tasks/arc080_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc069/C.java) | `AtCoder` `*400` | Feb/28/2021 18:00 | 
-557 | [B - i18n](https://atcoder.jp/contests/abc069/tasks/abc069_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc069/B.java) | `AtCoder` `*200` | Feb/28/2021 17:50 | 
-556 | [A - K-City](https://atcoder.jp/contests/abc069/tasks/abc069_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc069/A.java) | `AtCoder` `*100` | Feb/28/2021 17:47 | 
-555 | [D - Poker](https://atcoder.jp/contests/abc193/tasks/abc193_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc193/D.java) | `AtCoder` `*400` | Feb/27/2021 18:50 | 
-554 | [C - Unexpressed](https://atcoder.jp/contests/abc193/tasks/abc193_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc193/C.java) | `AtCoder` `*300` | Feb/27/2021 18:34 | 
-553 | [B - Play Snuke](https://atcoder.jp/contests/abc193/tasks/abc193_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc193/B.java) | `AtCoder` `*200` | Feb/27/2021 17:41 | 
-552 | [A - Discount](https://atcoder.jp/contests/abc193/tasks/abc193_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc193/A.java) | `AtCoder` `*100` | Feb/27/2021 17:32 | 
-551 | [D - Decrease (Contestant ver.)](https://atcoder.jp/contests/abc068/tasks/arc079_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc068/D.java) | `AtCoder` `*600` | Feb/26/2021 20:34 | 
-550 | [A - ABCxxx](https://atcoder.jp/contests/abc068/tasks/abc068_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc068/A.java) | `AtCoder` `*100` | Feb/26/2021 20:01 | 
-549 | [B - Break Number](https://atcoder.jp/contests/abc068/tasks/abc068_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc068/B.java) | `AtCoder` `*200` | Feb/26/2021 20:00 | 
-548 | [C - Cat Snuke and a Voyage](https://atcoder.jp/contests/abc068/tasks/arc079_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc068/C.java) | `AtCoder` `*300` | Feb/26/2021 19:53 | 
-547 | [C - Splitting Pile](https://atcoder.jp/contests/abc067/tasks/arc078_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc067/C.java) | `AtCoder` `*300` | Feb/26/2021 02:26 | 
-546 | [B - Snake Toy](https://atcoder.jp/contests/abc067/tasks/abc067_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc067/B.java) | `AtCoder` `*200` | Feb/26/2021 02:25 | 
-545 | [A - Sharing Cookies](https://atcoder.jp/contests/abc067/tasks/abc067_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc067/A.java) | `AtCoder` `*100` | Feb/26/2021 02:23 | 
-544 | [D - Fennec VS. Snuke](https://atcoder.jp/contests/abc067/tasks/arc078_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc067/D.java) | `AtCoder` `*400` | Feb/26/2021 02:02 | 
-543 | [C - pushpush](https://atcoder.jp/contests/abc066/tasks/arc077_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc066/C.java) | `AtCoder` `*300` | Feb/24/2021 16:47 | 
-542 | [B - ss](https://atcoder.jp/contests/abc066/tasks/abc066_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc066/B.java) | `AtCoder` `*200` | Feb/24/2021 16:35 | 
-541 | [A - ringring](https://atcoder.jp/contests/abc066/tasks/abc066_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc066/A.java) | `AtCoder` `*100` | Feb/24/2021 16:29 | 
-540 | [C - Reconciled?](https://atcoder.jp/contests/abc065/tasks/arc076_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc065/C.java) | `AtCoder` `*300` | Feb/23/2021 19:42 | 
-539 | [B - Trained?](https://atcoder.jp/contests/abc065/tasks/abc065_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc065/B.java) | `AtCoder` `*200` | Feb/23/2021 19:27 | 
+565 | [C - Digital Graffiti](https://atcoder.jp/contests/abc191/tasks/abc191_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc191/C.java) | `AtCoder` `*300` | Mar/17/2021 13:32 | 
+564 | [D - Shipping Center](https://atcoder.jp/contests/abc195/tasks/abc195_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc195/D.java) | `AtCoder` `*400` | Mar/16/2021 18:14 | 
+563 | [C - Comma](https://atcoder.jp/contests/abc195/tasks/abc195_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc195/C.java) | `AtCoder` `*300` | Mar/16/2021 17:50 | 
+562 | [B - Many Oranges](https://atcoder.jp/contests/abc195/tasks/abc195_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc195/B.java) | `AtCoder` `*200` | Mar/16/2021 17:40 | 
+561 | [A - Health M Death](https://atcoder.jp/contests/abc195/tasks/abc195_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc195/A.java) | `AtCoder` `*100` | Mar/16/2021 17:32 | 
+560 | [D - Grid Coloring](https://atcoder.jp/contests/abc069/tasks/arc080_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc069/D.java) | `AtCoder` `*400` | Feb/28/2021 18:11 | 
+559 | [C - 4-adjacent](https://atcoder.jp/contests/abc069/tasks/arc080_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc069/C.java) | `AtCoder` `*400` | Feb/28/2021 18:00 | 
+558 | [B - i18n](https://atcoder.jp/contests/abc069/tasks/abc069_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc069/B.java) | `AtCoder` `*200` | Feb/28/2021 17:50 | 
+557 | [A - K-City](https://atcoder.jp/contests/abc069/tasks/abc069_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc069/A.java) | `AtCoder` `*100` | Feb/28/2021 17:47 | 
+556 | [D - Poker](https://atcoder.jp/contests/abc193/tasks/abc193_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc193/D.java) | `AtCoder` `*400` | Feb/27/2021 18:50 | 
+555 | [C - Unexpressed](https://atcoder.jp/contests/abc193/tasks/abc193_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc193/C.java) | `AtCoder` `*300` | Feb/27/2021 18:34 | 
+554 | [B - Play Snuke](https://atcoder.jp/contests/abc193/tasks/abc193_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc193/B.java) | `AtCoder` `*200` | Feb/27/2021 17:41 | 
+553 | [A - Discount](https://atcoder.jp/contests/abc193/tasks/abc193_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc193/A.java) | `AtCoder` `*100` | Feb/27/2021 17:32 | 
+552 | [D - Decrease (Contestant ver.)](https://atcoder.jp/contests/abc068/tasks/arc079_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc068/D.java) | `AtCoder` `*600` | Feb/26/2021 20:34 | 
+551 | [A - ABCxxx](https://atcoder.jp/contests/abc068/tasks/abc068_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc068/A.java) | `AtCoder` `*100` | Feb/26/2021 20:01 | 
+550 | [B - Break Number](https://atcoder.jp/contests/abc068/tasks/abc068_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc068/B.java) | `AtCoder` `*200` | Feb/26/2021 20:00 | 
+549 | [C - Cat Snuke and a Voyage](https://atcoder.jp/contests/abc068/tasks/arc079_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc068/C.java) | `AtCoder` `*300` | Feb/26/2021 19:53 | 
+548 | [C - Splitting Pile](https://atcoder.jp/contests/abc067/tasks/arc078_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc067/C.java) | `AtCoder` `*300` | Feb/26/2021 02:26 | 
+547 | [B - Snake Toy](https://atcoder.jp/contests/abc067/tasks/abc067_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc067/B.java) | `AtCoder` `*200` | Feb/26/2021 02:25 | 
+546 | [A - Sharing Cookies](https://atcoder.jp/contests/abc067/tasks/abc067_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc067/A.java) | `AtCoder` `*100` | Feb/26/2021 02:23 | 
+545 | [D - Fennec VS. Snuke](https://atcoder.jp/contests/abc067/tasks/arc078_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc067/D.java) | `AtCoder` `*400` | Feb/26/2021 02:02 | 
+544 | [C - pushpush](https://atcoder.jp/contests/abc066/tasks/arc077_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc066/C.java) | `AtCoder` `*300` | Feb/24/2021 16:47 | 
+543 | [B - ss](https://atcoder.jp/contests/abc066/tasks/abc066_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc066/B.java) | `AtCoder` `*200` | Feb/24/2021 16:35 | 
+542 | [A - ringring](https://atcoder.jp/contests/abc066/tasks/abc066_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc066/A.java) | `AtCoder` `*100` | Feb/24/2021 16:29 | 
+541 | [C - Reconciled?](https://atcoder.jp/contests/abc065/tasks/arc076_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc065/C.java) | `AtCoder` `*300` | Feb/23/2021 19:42 | 
+540 | [B - Trained?](https://atcoder.jp/contests/abc065/tasks/abc065_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc065/B.java) | `AtCoder` `*200` | Feb/23/2021 19:27 | 
+539 | [A - Expired?](https://atcoder.jp/contests/abc065/tasks/abc065_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc065/A.java) | `AtCoder` `*100` | Feb/23/2021 19:19 | 
 538 | [D - 3N Numbers](https://atcoder.jp/contests/abc062/tasks/arc074_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc062/D.java) | `AtCoder` `*500` | Feb/22/2021 00:12 | 
 537 | [B - Picture Frame](https://atcoder.jp/contests/abc062/tasks/abc062_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc062/B.java) | `AtCoder` `*200` | Feb/21/2021 23:12 | 
 536 | [A - Grouping](https://atcoder.jp/contests/abc062/tasks/abc062_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc062/A.java) | `AtCoder` `*100` | Feb/21/2021 23:01 | 
