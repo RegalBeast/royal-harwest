@@ -1663,6 +1663,22 @@
     ],
     "timestamp": "Feb/22/2021 00:12"
   },
+  "AC20487985": {
+    "contest_id": "abc067",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc067/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Snake Toy",
+    "problem_url": "https://atcoder.jp/contests/abc067/tasks/abc067_b",
+    "submission_id": "AC20487985",
+    "submission_url": "https://atcoder.jp/contests/abc067/submissions/20487985",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Feb/26/2021 02:20"
+  },
   "AC20487998": {
     "contest_id": "abc067",
     "language": "Java (OpenJDK 11.0.6)",
