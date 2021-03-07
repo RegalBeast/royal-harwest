@@ -13,17 +13,18 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-579 | [C - Minimum Grid Path](https://codeforces.com/contest/1499/problem/C) | [Java 11](./codeforces/1499/C.java) | `dp` `greedy` | Mar/19/2021 02:53 | 
-578 | [B - Jeff and Periods](https://codeforces.com/contest/352/problem/B) | [Java 11](./codeforces/352/B.java) | `implementation` `sortings` `*1300` | Mar/19/2021 02:03 | 
-577 | [B - Binary Removals](https://codeforces.com/contest/1499/problem/B) | [Java 11](./codeforces/1499/B.java) | `brute force` `dp` `greedy` `implementation` | Mar/19/2021 00:06 | 
-576 | [A - Domino on Windowsill](https://codeforces.com/contest/1499/problem/A) | [Java 11](./codeforces/1499/A.java) | `constructive algorithms` `math` | Mar/18/2021 23:54 | 
-575 | [C - Digital Graffiti](https://atcoder.jp/contests/abc191/tasks/abc191_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc191/C.java) | `AtCoder` `*300` | Mar/17/2021 13:32 | 
-574 | [D - Shipping Center](https://atcoder.jp/contests/abc195/tasks/abc195_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc195/D.java) | `AtCoder` `*400` | Mar/16/2021 18:14 | 
-573 | [C - Comma](https://atcoder.jp/contests/abc195/tasks/abc195_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc195/C.java) | `AtCoder` `*300` | Mar/16/2021 17:50 | 
-572 | [B - Many Oranges](https://atcoder.jp/contests/abc195/tasks/abc195_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc195/B.java) | `AtCoder` `*200` | Mar/16/2021 17:40 | 
-571 | [A - Health M Death](https://atcoder.jp/contests/abc195/tasks/abc195_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc195/A.java) | `AtCoder` `*100` | Mar/16/2021 17:32 | 
-570 | [A - Split it!](https://codeforces.com/contest/1496/problem/A) | [Java 11](./codeforces/1496/A.java) | `brute force` `constructive algorithms` `greedy` `strings` `*900` | Mar/16/2021 14:50 | 
-569 | [C - Diamond Miner](https://codeforces.com/contest/1496/problem/C) | [Java 11](./codeforces/1496/C.java) | `geometry` `greedy` `sortings` `*1200` | Mar/16/2021 14:19 | 
+580 | [C - Minimum Grid Path](https://codeforces.com/contest/1499/problem/C) | [Java 11](./codeforces/1499/C.java) | `dp` `greedy` | Mar/19/2021 02:53 | 
+579 | [B - Jeff and Periods](https://codeforces.com/contest/352/problem/B) | [Java 11](./codeforces/352/B.java) | `implementation` `sortings` `*1300` | Mar/19/2021 02:03 | 
+578 | [B - Binary Removals](https://codeforces.com/contest/1499/problem/B) | [Java 11](./codeforces/1499/B.java) | `brute force` `dp` `greedy` `implementation` | Mar/19/2021 00:06 | 
+577 | [A - Domino on Windowsill](https://codeforces.com/contest/1499/problem/A) | [Java 11](./codeforces/1499/A.java) | `constructive algorithms` `math` | Mar/18/2021 23:54 | 
+576 | [C - Digital Graffiti](https://atcoder.jp/contests/abc191/tasks/abc191_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc191/C.java) | `AtCoder` `*300` | Mar/17/2021 13:32 | 
+575 | [D - Shipping Center](https://atcoder.jp/contests/abc195/tasks/abc195_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc195/D.java) | `AtCoder` `*400` | Mar/16/2021 18:14 | 
+574 | [C - Comma](https://atcoder.jp/contests/abc195/tasks/abc195_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc195/C.java) | `AtCoder` `*300` | Mar/16/2021 17:50 | 
+573 | [B - Many Oranges](https://atcoder.jp/contests/abc195/tasks/abc195_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc195/B.java) | `AtCoder` `*200` | Mar/16/2021 17:40 | 
+572 | [A - Health M Death](https://atcoder.jp/contests/abc195/tasks/abc195_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc195/A.java) | `AtCoder` `*100` | Mar/16/2021 17:32 | 
+571 | [A - Split it!](https://codeforces.com/contest/1496/problem/A) | [Java 11](./codeforces/1496/A.java) | `brute force` `constructive algorithms` `greedy` `strings` `*900` | Mar/16/2021 14:50 | 
+570 | [C - Diamond Miner](https://codeforces.com/contest/1496/problem/C) | [Java 11](./codeforces/1496/C.java) | `geometry` `greedy` `sortings` `*1200` | Mar/16/2021 14:19 | 
+569 | [A - Remove Duplicates](https://codeforces.com/contest/978/problem/A) | [Java 11](./codeforces/978/A.java) | `implementation` `*800` | Mar/07/2021 14:10 | 
 568 | [D - Grid Coloring](https://atcoder.jp/contests/abc069/tasks/arc080_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc069/D.java) | `AtCoder` `*400` | Feb/28/2021 18:11 | 
 567 | [C - 4-adjacent](https://atcoder.jp/contests/abc069/tasks/arc080_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc069/C.java) | `AtCoder` `*400` | Feb/28/2021 18:00 | 
 566 | [B - i18n](https://atcoder.jp/contests/abc069/tasks/abc069_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc069/B.java) | `AtCoder` `*200` | Feb/28/2021 17:50 | 
