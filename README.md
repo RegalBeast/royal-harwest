@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-576 | [C - Minimum Grid Path](https://codeforces.com/contest/1499/problem/C) | [Java 11](./codeforces/1499/C.java) | `dp` `greedy` | Mar/19/2021 02:53 | 
-575 | [B - Jeff and Periods](https://codeforces.com/contest/352/problem/B) | [Java 11](./codeforces/352/B.java) | `implementation` `sortings` `*1300` | Mar/19/2021 02:03 | 
-574 | [B - Binary Removals](https://codeforces.com/contest/1499/problem/B) | [Java 11](./codeforces/1499/B.java) | `brute force` `dp` `greedy` `implementation` | Mar/19/2021 00:06 | 
+577 | [C - Minimum Grid Path](https://codeforces.com/contest/1499/problem/C) | [Java 11](./codeforces/1499/C.java) | `dp` `greedy` | Mar/19/2021 02:53 | 
+576 | [B - Jeff and Periods](https://codeforces.com/contest/352/problem/B) | [Java 11](./codeforces/352/B.java) | `implementation` `sortings` `*1300` | Mar/19/2021 02:03 | 
+575 | [B - Binary Removals](https://codeforces.com/contest/1499/problem/B) | [Java 11](./codeforces/1499/B.java) | `brute force` `dp` `greedy` `implementation` | Mar/19/2021 00:06 | 
+574 | [A - Domino on Windowsill](https://codeforces.com/contest/1499/problem/A) | [Java 11](./codeforces/1499/A.java) | `constructive algorithms` `math` | Mar/18/2021 23:54 | 
 573 | [C - Digital Graffiti](https://atcoder.jp/contests/abc191/tasks/abc191_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc191/C.java) | `AtCoder` `*300` | Mar/17/2021 13:32 | 
 572 | [D - Shipping Center](https://atcoder.jp/contests/abc195/tasks/abc195_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc195/D.java) | `AtCoder` `*400` | Mar/16/2021 18:14 | 
 571 | [C - Comma](https://atcoder.jp/contests/abc195/tasks/abc195_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc195/C.java) | `AtCoder` `*300` | Mar/16/2021 17:50 | 
