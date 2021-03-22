@@ -4875,6 +4875,22 @@
     ],
     "timestamp": "Mar/19/2021 02:53"
   },
+  "CF110706975": {
+    "contest_id": 1484,
+    "language": "Java 11",
+    "path": "codeforces/1484/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Restore Modulo",
+    "problem_url": "https://codeforces.com/contest/1484/problem/B",
+    "submission_id": "CF110706975",
+    "submission_url": "https://codeforces.com/contest/1484/submission/110706975",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Mar/22/2021 12:36"
+  },
   "CF110708241": {
     "contest_id": 1484,
     "language": "Java 11",
