@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-594 | [F - Equalize the Array](https://codeforces.com/contest/1490/problem/F) | [Java 11](./codeforces/1490/F.java) | `binary search` `data structures` `greedy` `math` `sortings` `*1500` | Mar/25/2021 00:53 | 
-593 | [E - Accidental Victory](https://codeforces.com/contest/1490/problem/E) | [Java 11](./codeforces/1490/E.java) | `binary search` `data structures` `greedy` `*1400` | Mar/25/2021 00:15 | 
-592 | [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | [Java 11](./codeforces/1490/D.java) | `dfs and similar` `divide and conquer` `implementation` `*1200` | Mar/24/2021 23:52 | 
-591 | [C - Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | [Java 11](./codeforces/1490/C.java) | `binary search` `brute force` `brute force` `math` `*1100` | Mar/24/2021 23:36 | 
-590 | [B - Balanced Remainders](https://codeforces.com/contest/1490/problem/B) | [Java 11](./codeforces/1490/B.java) | `brute force` `constructive algorithms` `math` `*1000` | Mar/24/2021 23:29 | 
-589 | [A - Dense Array](https://codeforces.com/contest/1490/problem/A) | [Java 11](./codeforces/1490/A.java) | `greedy` `math` `*800` | Mar/24/2021 23:18 | 
-588 | [C - Basic Diplomacy](https://codeforces.com/contest/1484/problem/C) | [Java 11](./codeforces/1484/C.java) | `combinatorics` `flows` `greedy` `implementation` | Mar/22/2021 12:54 | 
-587 | [B - Restore Modulo](https://codeforces.com/contest/1484/problem/B) | [Java 11](./codeforces/1484/B.java) | `implementation` `math` | Mar/22/2021 12:36 | 
+595 | [F - Equalize the Array](https://codeforces.com/contest/1490/problem/F) | [Java 11](./codeforces/1490/F.java) | `binary search` `data structures` `greedy` `math` `sortings` `*1500` | Mar/25/2021 00:53 | 
+594 | [E - Accidental Victory](https://codeforces.com/contest/1490/problem/E) | [Java 11](./codeforces/1490/E.java) | `binary search` `data structures` `greedy` `*1400` | Mar/25/2021 00:15 | 
+593 | [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | [Java 11](./codeforces/1490/D.java) | `dfs and similar` `divide and conquer` `implementation` `*1200` | Mar/24/2021 23:52 | 
+592 | [C - Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | [Java 11](./codeforces/1490/C.java) | `binary search` `brute force` `brute force` `math` `*1100` | Mar/24/2021 23:36 | 
+591 | [B - Balanced Remainders](https://codeforces.com/contest/1490/problem/B) | [Java 11](./codeforces/1490/B.java) | `brute force` `constructive algorithms` `math` `*1000` | Mar/24/2021 23:29 | 
+590 | [A - Dense Array](https://codeforces.com/contest/1490/problem/A) | [Java 11](./codeforces/1490/A.java) | `greedy` `math` `*800` | Mar/24/2021 23:18 | 
+589 | [C - Basic Diplomacy](https://codeforces.com/contest/1484/problem/C) | [Java 11](./codeforces/1484/C.java) | `combinatorics` `flows` `greedy` `implementation` | Mar/22/2021 12:54 | 
+588 | [B - Restore Modulo](https://codeforces.com/contest/1484/problem/B) | [Java 11](./codeforces/1484/B.java) | `implementation` `math` | Mar/22/2021 12:36 | 
+587 | [A - Prison Break](https://codeforces.com/contest/1484/problem/A) | [Java 11](./codeforces/1484/A.java) | `constructive algorithms` | Mar/22/2021 11:02 | 
 586 | [C - Minimum Grid Path](https://codeforces.com/contest/1499/problem/C) | [Java 11](./codeforces/1499/C.java) | `dp` `greedy` | Mar/19/2021 02:53 | 
 585 | [B - Jeff and Periods](https://codeforces.com/contest/352/problem/B) | [Java 11](./codeforces/352/B.java) | `implementation` `sortings` `*1300` | Mar/19/2021 02:03 | 
 584 | [B - Binary Removals](https://codeforces.com/contest/1499/problem/B) | [Java 11](./codeforces/1499/B.java) | `brute force` `dp` `greedy` `implementation` | Mar/19/2021 00:06 | 
