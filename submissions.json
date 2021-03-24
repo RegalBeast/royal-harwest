@@ -4875,6 +4875,26 @@
     ],
     "timestamp": "Mar/19/2021 02:53"
   },
+  "CF110926082": {
+    "contest_id": 1490,
+    "language": "Java 11",
+    "path": "codeforces/1490/F.java",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Equalize the Array",
+    "problem_url": "https://codeforces.com/contest/1490/problem/F",
+    "submission_id": "CF110926082",
+    "submission_url": "https://codeforces.com/contest/1490/submission/110926082",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "math",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Mar/25/2021 00:53"
+  },
   "CF94415312": {
     "contest_id": 4,
     "language": "Java 11",
