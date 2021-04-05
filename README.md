@@ -13,16 +13,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-608 | [A - In-game Chat](https://codeforces.com/contest/1411/problem/A) | [Java 11](./codeforces/1411/A.java) | `implementation` `*800` | Apr/06/2021 22:49 | 
-607 | [B - Red and Blue](https://codeforces.com/contest/1469/problem/B) | [Java 11](./codeforces/1469/B.java) | `dp` `greedy` `*1000` | Apr/06/2021 22:42 | 
-606 | [A - Jzzhu and Children](https://codeforces.com/contest/450/problem/A) | [Java 11](./codeforces/450/A.java) | `implementation` `*1000` | Apr/06/2021 22:29 | 
-605 | [A - Meximization](https://codeforces.com/contest/1497/problem/A) | [Java 11](./codeforces/1497/A.java) | `brute force` `data structures` `greedy` `sortings` `*800` | Apr/06/2021 19:09 | 
-604 | [A - XORwice](https://codeforces.com/contest/1421/problem/A) | [Java 11](./codeforces/1421/A.java) | `bitmasks` `greedy` `math` `*800` | Apr/06/2021 18:49 | 
-603 | [A - Three swimmers](https://codeforces.com/contest/1492/problem/A) | [Java 11](./codeforces/1492/A.java) | `math` `*800` | Apr/06/2021 15:46 | 
-602 | [A - Shifting Stacks](https://codeforces.com/contest/1486/problem/A) | [Java 11](./codeforces/1486/A.java) | `greedy` `implementation` `*900` | Apr/06/2021 15:38 | 
-601 | [A - Cancel the Trains](https://codeforces.com/contest/1453/problem/A) | [Java 11](./codeforces/1453/A.java) | `implementation` `*800` | Apr/06/2021 12:17 | 
-600 | [A - Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | [Java 11](./codeforces/1469/A.java) | `constructive algorithms` `greedy` `*1000` | Apr/06/2021 11:37 | 
-599 | [B - Last minute enhancements](https://codeforces.com/contest/1466/problem/B) | [Java 11](./codeforces/1466/B.java) | `dp` `greedy` `*800` | Apr/05/2021 13:04 | 
+609 | [A - In-game Chat](https://codeforces.com/contest/1411/problem/A) | [Java 11](./codeforces/1411/A.java) | `implementation` `*800` | Apr/06/2021 22:49 | 
+608 | [B - Red and Blue](https://codeforces.com/contest/1469/problem/B) | [Java 11](./codeforces/1469/B.java) | `dp` `greedy` `*1000` | Apr/06/2021 22:42 | 
+607 | [A - Jzzhu and Children](https://codeforces.com/contest/450/problem/A) | [Java 11](./codeforces/450/A.java) | `implementation` `*1000` | Apr/06/2021 22:29 | 
+606 | [A - Meximization](https://codeforces.com/contest/1497/problem/A) | [Java 11](./codeforces/1497/A.java) | `brute force` `data structures` `greedy` `sortings` `*800` | Apr/06/2021 19:09 | 
+605 | [A - XORwice](https://codeforces.com/contest/1421/problem/A) | [Java 11](./codeforces/1421/A.java) | `bitmasks` `greedy` `math` `*800` | Apr/06/2021 18:49 | 
+604 | [A - Three swimmers](https://codeforces.com/contest/1492/problem/A) | [Java 11](./codeforces/1492/A.java) | `math` `*800` | Apr/06/2021 15:46 | 
+603 | [A - Shifting Stacks](https://codeforces.com/contest/1486/problem/A) | [Java 11](./codeforces/1486/A.java) | `greedy` `implementation` `*900` | Apr/06/2021 15:38 | 
+602 | [A - Cancel the Trains](https://codeforces.com/contest/1453/problem/A) | [Java 11](./codeforces/1453/A.java) | `implementation` `*800` | Apr/06/2021 12:17 | 
+601 | [A - Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | [Java 11](./codeforces/1469/A.java) | `constructive algorithms` `greedy` `*1000` | Apr/06/2021 11:37 | 
+600 | [B - Last minute enhancements](https://codeforces.com/contest/1466/problem/B) | [Java 11](./codeforces/1466/B.java) | `dp` `greedy` `*800` | Apr/05/2021 13:04 | 
+599 | [A - Strange Table](https://codeforces.com/contest/1506/problem/A) | [Java 11](./codeforces/1506/A.java) | `math` `*800` | Apr/05/2021 12:53 | 
 598 | [F - Equalize the Array](https://codeforces.com/contest/1490/problem/F) | [Java 11](./codeforces/1490/F.java) | `binary search` `data structures` `greedy` `math` `sortings` `*1500` | Mar/25/2021 00:53 | 
 597 | [E - Accidental Victory](https://codeforces.com/contest/1490/problem/E) | [Java 11](./codeforces/1490/E.java) | `binary search` `data structures` `greedy` `*1400` | Mar/25/2021 00:15 | 
 596 | [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | [Java 11](./codeforces/1490/D.java) | `dfs and similar` `divide and conquer` `implementation` `*1200` | Mar/24/2021 23:52 | 
