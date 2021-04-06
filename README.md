@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+611 | [A - DZY Loves Chessboard](https://codeforces.com/contest/445/problem/A) | [Java 11](./codeforces/445/A.java) | `dfs and similar` `implementation` `*1200` | Apr/06/2021 23:57 | 
 610 | [A - In-game Chat](https://codeforces.com/contest/1411/problem/A) | [Java 11](./codeforces/1411/A.java) | `implementation` `*800` | Apr/06/2021 22:49 | 
 609 | [B - Red and Blue](https://codeforces.com/contest/1469/problem/B) | [Java 11](./codeforces/1469/B.java) | `dp` `greedy` `*1000` | Apr/06/2021 22:42 | 
 608 | [A - Jzzhu and Children](https://codeforces.com/contest/450/problem/A) | [Java 11](./codeforces/450/A.java) | `implementation` `*1000` | Apr/06/2021 22:29 | 
