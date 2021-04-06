@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-599 | [A - In-game Chat](https://codeforces.com/contest/1411/problem/A) | [Java 11](./codeforces/1411/A.java) | `implementation` `*800` | Apr/06/2021 22:49 | 
+600 | [A - In-game Chat](https://codeforces.com/contest/1411/problem/A) | [Java 11](./codeforces/1411/A.java) | `implementation` `*800` | Apr/06/2021 22:49 | 
+599 | [B - Red and Blue](https://codeforces.com/contest/1469/problem/B) | [Java 11](./codeforces/1469/B.java) | `dp` `greedy` `*1000` | Apr/06/2021 22:42 | 
 598 | [F - Equalize the Array](https://codeforces.com/contest/1490/problem/F) | [Java 11](./codeforces/1490/F.java) | `binary search` `data structures` `greedy` `math` `sortings` `*1500` | Mar/25/2021 00:53 | 
 597 | [E - Accidental Victory](https://codeforces.com/contest/1490/problem/E) | [Java 11](./codeforces/1490/E.java) | `binary search` `data structures` `greedy` `*1400` | Mar/25/2021 00:15 | 
 596 | [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | [Java 11](./codeforces/1490/D.java) | `dfs and similar` `divide and conquer` `implementation` `*1200` | Mar/24/2021 23:52 | 
