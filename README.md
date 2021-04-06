@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-606 | [A - In-game Chat](https://codeforces.com/contest/1411/problem/A) | [Java 11](./codeforces/1411/A.java) | `implementation` `*800` | Apr/06/2021 22:49 | 
-605 | [B - Red and Blue](https://codeforces.com/contest/1469/problem/B) | [Java 11](./codeforces/1469/B.java) | `dp` `greedy` `*1000` | Apr/06/2021 22:42 | 
-604 | [A - Jzzhu and Children](https://codeforces.com/contest/450/problem/A) | [Java 11](./codeforces/450/A.java) | `implementation` `*1000` | Apr/06/2021 22:29 | 
-603 | [A - Meximization](https://codeforces.com/contest/1497/problem/A) | [Java 11](./codeforces/1497/A.java) | `brute force` `data structures` `greedy` `sortings` `*800` | Apr/06/2021 19:09 | 
-602 | [A - XORwice](https://codeforces.com/contest/1421/problem/A) | [Java 11](./codeforces/1421/A.java) | `bitmasks` `greedy` `math` `*800` | Apr/06/2021 18:49 | 
-601 | [A - Three swimmers](https://codeforces.com/contest/1492/problem/A) | [Java 11](./codeforces/1492/A.java) | `math` `*800` | Apr/06/2021 15:46 | 
-600 | [A - Shifting Stacks](https://codeforces.com/contest/1486/problem/A) | [Java 11](./codeforces/1486/A.java) | `greedy` `implementation` `*900` | Apr/06/2021 15:38 | 
-599 | [A - Cancel the Trains](https://codeforces.com/contest/1453/problem/A) | [Java 11](./codeforces/1453/A.java) | `implementation` `*800` | Apr/06/2021 12:17 | 
+607 | [A - In-game Chat](https://codeforces.com/contest/1411/problem/A) | [Java 11](./codeforces/1411/A.java) | `implementation` `*800` | Apr/06/2021 22:49 | 
+606 | [B - Red and Blue](https://codeforces.com/contest/1469/problem/B) | [Java 11](./codeforces/1469/B.java) | `dp` `greedy` `*1000` | Apr/06/2021 22:42 | 
+605 | [A - Jzzhu and Children](https://codeforces.com/contest/450/problem/A) | [Java 11](./codeforces/450/A.java) | `implementation` `*1000` | Apr/06/2021 22:29 | 
+604 | [A - Meximization](https://codeforces.com/contest/1497/problem/A) | [Java 11](./codeforces/1497/A.java) | `brute force` `data structures` `greedy` `sortings` `*800` | Apr/06/2021 19:09 | 
+603 | [A - XORwice](https://codeforces.com/contest/1421/problem/A) | [Java 11](./codeforces/1421/A.java) | `bitmasks` `greedy` `math` `*800` | Apr/06/2021 18:49 | 
+602 | [A - Three swimmers](https://codeforces.com/contest/1492/problem/A) | [Java 11](./codeforces/1492/A.java) | `math` `*800` | Apr/06/2021 15:46 | 
+601 | [A - Shifting Stacks](https://codeforces.com/contest/1486/problem/A) | [Java 11](./codeforces/1486/A.java) | `greedy` `implementation` `*900` | Apr/06/2021 15:38 | 
+600 | [A - Cancel the Trains](https://codeforces.com/contest/1453/problem/A) | [Java 11](./codeforces/1453/A.java) | `implementation` `*800` | Apr/06/2021 12:17 | 
+599 | [A - Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | [Java 11](./codeforces/1469/A.java) | `constructive algorithms` `greedy` `*1000` | Apr/06/2021 11:37 | 
 598 | [F - Equalize the Array](https://codeforces.com/contest/1490/problem/F) | [Java 11](./codeforces/1490/F.java) | `binary search` `data structures` `greedy` `math` `sortings` `*1500` | Mar/25/2021 00:53 | 
 597 | [E - Accidental Victory](https://codeforces.com/contest/1490/problem/E) | [Java 11](./codeforces/1490/E.java) | `binary search` `data structures` `greedy` `*1400` | Mar/25/2021 00:15 | 
 596 | [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | [Java 11](./codeforces/1490/D.java) | `dfs and similar` `divide and conquer` `implementation` `*1200` | Mar/24/2021 23:52 | 
