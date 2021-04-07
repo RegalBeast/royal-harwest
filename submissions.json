@@ -5354,6 +5354,19 @@
     ],
     "timestamp": "Apr/06/2021 23:57"
   },
+  "CF112215326": {
+    "contest_id": 1331,
+    "language": "Python 3",
+    "path": "codeforces/1331/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Is it rated?",
+    "problem_url": "https://codeforces.com/contest/1331/problem/A",
+    "submission_id": "CF112215326",
+    "submission_url": "https://codeforces.com/contest/1331/submission/112215326",
+    "tags": [],
+    "timestamp": "Apr/07/2021 16:10"
+  },
   "CF112215860": {
     "contest_id": 1200,
     "language": "Java 11",
