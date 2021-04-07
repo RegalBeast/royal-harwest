@@ -13,18 +13,19 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-625 | [A - Towers](https://codeforces.com/contest/37/problem/A) | [Java 11](./codeforces/37/A.java) | `sortings` `*1000` | Apr/07/2021 19:00 | 
-624 | [A - Even Subset Sum Problem](https://codeforces.com/contest/1323/problem/A) | [Java 11](./codeforces/1323/A.java) | `brute force` `dp` `greedy` `implementation` `*800` | Apr/07/2021 18:29 | 
-623 | [B - Maximal Continuous Rest](https://codeforces.com/contest/1141/problem/B) | [Java 11](./codeforces/1141/B.java) | `implementation` `*900` | Apr/07/2021 18:20 | 
-622 | [B - Divisors of Two Integers](https://codeforces.com/contest/1108/problem/B) | [Java 11](./codeforces/1108/B.java) | `brute force` `greedy` `math` `number theory` `*1100` | Apr/07/2021 16:33 | 
-621 | [A - Marketing Scheme](https://codeforces.com/contest/1437/problem/A) | [Java 11](./codeforces/1437/A.java) | `brute force` `constructive algorithms` `greedy` `math` `*800` | Apr/07/2021 16:28 | 
-620 | [A - Hotelier](https://codeforces.com/contest/1200/problem/A) | [Java 11](./codeforces/1200/A.java) | `brute force` `data structures` `implementation` `*800` | Apr/07/2021 16:18 | 
-619 | [A - Is it rated?](https://codeforces.com/contest/1331/problem/A) | [Python 3](./codeforces/1331/A.py) |  | Apr/07/2021 16:10 | 
-618 | [A - Tricky Sum](https://codeforces.com/contest/598/problem/A) | [Java 11](./codeforces/598/A.java) | `math` `*900` | Apr/07/2021 16:09 | 
-617 | [A - Mishka and Contest](https://codeforces.com/contest/999/problem/A) | [Java 11](./codeforces/999/A.java) | `brute force` `implementation` `*800` | Apr/07/2021 16:05 | 
-616 | [A - Playing with Dice](https://codeforces.com/contest/378/problem/A) | [Java 11](./codeforces/378/A.java) | `brute force` `*800` | Apr/07/2021 16:00 | 
-615 | [B - Array Cancellation](https://codeforces.com/contest/1405/problem/B) | [Java 11](./codeforces/1405/B.java) | `constructive algorithms` `implementation` `*1000` | Apr/07/2021 12:31 | 
-614 | [B - Symmetric Matrix](https://codeforces.com/contest/1426/problem/B) | [Java 11](./codeforces/1426/B.java) | `implementation` `*900` | Apr/07/2021 12:19 | 
+626 | [A - Towers](https://codeforces.com/contest/37/problem/A) | [Java 11](./codeforces/37/A.java) | `sortings` `*1000` | Apr/07/2021 19:00 | 
+625 | [A - Even Subset Sum Problem](https://codeforces.com/contest/1323/problem/A) | [Java 11](./codeforces/1323/A.java) | `brute force` `dp` `greedy` `implementation` `*800` | Apr/07/2021 18:29 | 
+624 | [B - Maximal Continuous Rest](https://codeforces.com/contest/1141/problem/B) | [Java 11](./codeforces/1141/B.java) | `implementation` `*900` | Apr/07/2021 18:20 | 
+623 | [B - Divisors of Two Integers](https://codeforces.com/contest/1108/problem/B) | [Java 11](./codeforces/1108/B.java) | `brute force` `greedy` `math` `number theory` `*1100` | Apr/07/2021 16:33 | 
+622 | [A - Marketing Scheme](https://codeforces.com/contest/1437/problem/A) | [Java 11](./codeforces/1437/A.java) | `brute force` `constructive algorithms` `greedy` `math` `*800` | Apr/07/2021 16:28 | 
+621 | [A - Hotelier](https://codeforces.com/contest/1200/problem/A) | [Java 11](./codeforces/1200/A.java) | `brute force` `data structures` `implementation` `*800` | Apr/07/2021 16:18 | 
+620 | [A - Is it rated?](https://codeforces.com/contest/1331/problem/A) | [Python 3](./codeforces/1331/A.py) |  | Apr/07/2021 16:10 | 
+619 | [A - Tricky Sum](https://codeforces.com/contest/598/problem/A) | [Java 11](./codeforces/598/A.java) | `math` `*900` | Apr/07/2021 16:09 | 
+618 | [A - Mishka and Contest](https://codeforces.com/contest/999/problem/A) | [Java 11](./codeforces/999/A.java) | `brute force` `implementation` `*800` | Apr/07/2021 16:05 | 
+617 | [A - Playing with Dice](https://codeforces.com/contest/378/problem/A) | [Java 11](./codeforces/378/A.java) | `brute force` `*800` | Apr/07/2021 16:00 | 
+616 | [B - Array Cancellation](https://codeforces.com/contest/1405/problem/B) | [Java 11](./codeforces/1405/B.java) | `constructive algorithms` `implementation` `*1000` | Apr/07/2021 12:31 | 
+615 | [B - Symmetric Matrix](https://codeforces.com/contest/1426/problem/B) | [Java 11](./codeforces/1426/B.java) | `implementation` `*900` | Apr/07/2021 12:19 | 
+614 | [A - Integer Sequence Dividing](https://codeforces.com/contest/1102/problem/A) | [Java 11](./codeforces/1102/A.java) | `math` `*800` | Apr/07/2021 12:07 | 
 613 | [A - DZY Loves Chessboard](https://codeforces.com/contest/445/problem/A) | [Java 11](./codeforces/445/A.java) | `dfs and similar` `implementation` `*1200` | Apr/06/2021 23:57 | 
 612 | [A - Three Indices](https://codeforces.com/contest/1380/problem/A) | [Java 11](./codeforces/1380/A.java) | `brute force` `data structures` `*900` | Apr/06/2021 23:46 | 
 611 | [C - Mere Array](https://codeforces.com/contest/1401/problem/C) | [Java 11](./codeforces/1401/C.java) | `constructive algorithms` `math` `number theory` `sortings` `*1300` | Apr/06/2021 23:29 | 
