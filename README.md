@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-631 | [A - Number of Apartments](https://codeforces.com/contest/1430/problem/A) | [Java 11](./codeforces/1430/A.java) | `brute force` `constructive algorithms` `math` `*900` | Apr/09/2021 10:52 | 
-630 | [A - Pens and Pencils](https://codeforces.com/contest/1244/problem/A) | [Java 11](./codeforces/1244/A.java) | `math` `*800` | Apr/09/2021 00:16 | 
+632 | [A - Number of Apartments](https://codeforces.com/contest/1430/problem/A) | [Java 11](./codeforces/1430/A.java) | `brute force` `constructive algorithms` `math` `*900` | Apr/09/2021 10:52 | 
+631 | [A - Pens and Pencils](https://codeforces.com/contest/1244/problem/A) | [Java 11](./codeforces/1244/A.java) | `math` `*800` | Apr/09/2021 00:16 | 
+630 | [A - Juicer](https://codeforces.com/contest/709/problem/A) | [Java 11](./codeforces/709/A.java) | `implementation` `*900` | Apr/08/2021 09:09 | 
 629 | [A - Towers](https://codeforces.com/contest/37/problem/A) | [Java 11](./codeforces/37/A.java) | `sortings` `*1000` | Apr/07/2021 19:00 | 
 628 | [A - Even Subset Sum Problem](https://codeforces.com/contest/1323/problem/A) | [Java 11](./codeforces/1323/A.java) | `brute force` `dp` `greedy` `implementation` `*800` | Apr/07/2021 18:29 | 
 627 | [B - Maximal Continuous Rest](https://codeforces.com/contest/1141/problem/B) | [Java 11](./codeforces/1141/B.java) | `implementation` `*900` | Apr/07/2021 18:20 | 
