@@ -5854,6 +5854,24 @@
     ],
     "timestamp": "Apr/10/2021 01:29"
   },
+  "CF113553512": {
+    "contest_id": 1064,
+    "language": "Java 11",
+    "path": "codeforces/1064/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Make a triangle!",
+    "problem_url": "https://codeforces.com/contest/1064/problem/A",
+    "submission_id": "CF113553512",
+    "submission_url": "https://codeforces.com/contest/1064/submission/113553512",
+    "tags": [
+      "brute force",
+      "geometry",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/20/2021 00:58"
+  },
   "CF94415312": {
     "contest_id": 4,
     "language": "Java 11",
