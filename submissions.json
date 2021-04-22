@@ -6409,6 +6409,25 @@
     ],
     "timestamp": "Apr/20/2021 00:58"
   },
+  "CF113912519": {
+    "contest_id": 1516,
+    "language": "Java 11",
+    "path": "codeforces/1516/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "AGAGA XOOORRR",
+    "problem_url": "https://codeforces.com/contest/1516/problem/B",
+    "submission_id": "CF113912519",
+    "submission_url": "https://codeforces.com/contest/1516/submission/113912519",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Apr/22/2021 23:25"
+  },
   "CF94415312": {
     "contest_id": 4,
     "language": "Java 11",

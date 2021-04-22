@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+675 | [B - AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | [Java 11](./codeforces/1516/B.java) | `bitmasks` `brute force` `dp` `greedy` `*1500` | Apr/22/2021 23:25 | 
 674 | [A - Make a triangle!](https://codeforces.com/contest/1064/problem/A) | [Java 11](./codeforces/1064/A.java) | `brute force` `geometry` `math` `*800` | Apr/20/2021 00:58 | 
 673 | [A - Between the Offices](https://codeforces.com/contest/867/problem/A) | [Java 11](./codeforces/867/A.java) | `implementation` `*800` | Apr/19/2021 00:38 | 
 672 | [B - ARC Wrecker](https://atcoder.jp/contests/arc117/tasks/arc117_b) | [Java (OpenJDK 11.0.6)](./atcoder/arc117/B.java) | `AtCoder` `*400` | Apr/18/2021 17:53 | 
@@ -28,8 +29,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 662 | [A - Coins](https://codeforces.com/contest/1061/problem/A) | [Java 11](./codeforces/1061/A.java) | `greedy` `implementation` `math` `*800` | Apr/15/2021 01:50 | 
 661 | [B - Little Girl and Game](https://codeforces.com/contest/276/problem/B) | [Java 11](./codeforces/276/B.java) | `games` `greedy` `*1300` | Apr/14/2021 15:58 | 
 660 | [C - Two Brackets](https://codeforces.com/contest/1452/problem/C) | [Java 11](./codeforces/1452/C.java) | `greedy` `*800` | Apr/14/2021 15:45 | 
-659 | [A1 - Prefix Flip (Easy Version)](https://codeforces.com/contest/1381/problem/A1) | [Java 11](./codeforces/1381/A1.java) | `constructive algorithms` `data structures` `strings` `*1300` | Apr/14/2021 12:12 | 
-658 | [A2 - Prefix Flip (Hard Version)](https://codeforces.com/contest/1381/problem/A2) | [Java 11](./codeforces/1381/A2.java) | `constructive algorithms` `data structures` `implementation` `strings` `two pointers` `*1700` | Apr/14/2021 12:12 | 
+659 | [A2 - Prefix Flip (Hard Version)](https://codeforces.com/contest/1381/problem/A2) | [Java 11](./codeforces/1381/A2.java) | `constructive algorithms` `data structures` `implementation` `strings` `two pointers` `*1700` | Apr/14/2021 12:12 | 
+658 | [A1 - Prefix Flip (Easy Version)](https://codeforces.com/contest/1381/problem/A1) | [Java 11](./codeforces/1381/A1.java) | `constructive algorithms` `data structures` `strings` `*1300` | Apr/14/2021 12:12 | 
 657 | [B - Bear and Finding Criminals](https://codeforces.com/contest/680/problem/B) | [Java 11](./codeforces/680/B.java) | `constructive algorithms` `implementation` `*1000` | Apr/14/2021 11:07 | 
 656 | [A - Modular Exponentiation](https://codeforces.com/contest/913/problem/A) | [Java 11](./codeforces/913/A.java) | `implementation` `math` `*900` | Apr/14/2021 10:58 | 
 655 | [B - Decoding](https://codeforces.com/contest/746/problem/B) | [Java 11](./codeforces/746/B.java) | `implementation` `strings` `*900` | Apr/14/2021 10:53 | 
