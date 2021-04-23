@@ -6498,6 +6498,22 @@
     ],
     "timestamp": "Apr/22/2021 23:25"
   },
+  "CF113987695": {
+    "contest_id": 1517,
+    "language": "Java 11",
+    "path": "codeforces/1517/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sum of 2050",
+    "problem_url": "https://codeforces.com/contest/1517/problem/A",
+    "submission_id": "CF113987695",
+    "submission_url": "https://codeforces.com/contest/1517/submission/113987695",
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Apr/23/2021 20:10"
+  },
   "CF114011145": {
     "contest_id": 1517,
     "language": "Java 11",
