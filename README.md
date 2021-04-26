@@ -13,45 +13,46 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-723 | [A - Common Prefixes](https://codeforces.com/contest/1384/problem/A) | [Java 11](./codeforces/1384/A.java) | `constructive algorithms` `greedy` `strings` `*1200` | May/02/2021 09:43 | 
-722 | [C - Pluses and Minuses](https://codeforces.com/contest/1373/problem/C) | [Java 11](./codeforces/1373/C.java) | `math` `*1300` | May/01/2021 17:21 | 
-721 | [A - The Rank](https://codeforces.com/contest/1017/problem/A) | [Java 11](./codeforces/1017/A.java) | `implementation` `*800` | May/01/2021 14:14 | 
-720 | [A - Lights Out](https://codeforces.com/contest/275/problem/A) | [Java 11](./codeforces/275/A.java) | `implementation` `*900` | Apr/30/2021 14:50 | 
-719 | [B1 - Social Network (easy version)](https://codeforces.com/contest/1234/problem/B1) | [Java 11](./codeforces/1234/B1.java) | `implementation` `*1000` | Apr/29/2021 22:06 | 
-718 | [B2 - Social Network (hard version)](https://codeforces.com/contest/1234/problem/B2) | [Java 11](./codeforces/1234/B2.java) | `data structures` `implementation` `*1300` | Apr/29/2021 22:01 | 
-717 | [B - Non-Substring Subsequence](https://codeforces.com/contest/1451/problem/B) | [Java 11](./codeforces/1451/B.java) | `dp` `greedy` `implementation` `strings` `*900` | Apr/29/2021 21:51 | 
-716 | [C - Building Permutation](https://codeforces.com/contest/285/problem/C) | [Java 11](./codeforces/285/C.java) | `greedy` `implementation` `sortings` `*1200` | Apr/29/2021 21:39 | 
-715 | [A - Array and Peaks](https://codeforces.com/contest/1513/problem/A) | [Java 11](./codeforces/1513/A.java) | `constructive algorithms` `implementation` `*800` | Apr/29/2021 21:32 | 
-714 | [C - Ping-pong](https://codeforces.com/contest/1455/problem/C) | [Java 11](./codeforces/1455/C.java) | `constructive algorithms` `games` `math` `*1100` | Apr/29/2021 21:17 | 
-713 | [A - Prefixes](https://codeforces.com/contest/1216/problem/A) | [Java 11](./codeforces/1216/A.java) | `strings` `*800` | Apr/29/2021 21:07 | 
-712 | [A - Card Game](https://codeforces.com/contest/1270/problem/A) | [Java 11](./codeforces/1270/A.java) | `games` `greedy` `math` `*800` | Apr/29/2021 20:58 | 
-711 | [A - Winner](https://codeforces.com/contest/2/problem/A) | [Java 11](./codeforces/2/A.java) | `hashing` `implementation` `*1500` | Apr/29/2021 19:38 | 
-710 | [B - Shuffle](https://codeforces.com/contest/1366/problem/B) | [Java 11](./codeforces/1366/B.java) | `math` `two pointers` `*1300` | Apr/29/2021 19:10 | 
-709 | [D - Zero Remainder Array](https://codeforces.com/contest/1374/problem/D) | [Java 11](./codeforces/1374/D.java) | `math` `sortings` `two pointers` `*1400` | Apr/29/2021 19:03 | 
-708 | [C - Sequence Transformation](https://codeforces.com/contest/1454/problem/C) | [Java 11](./codeforces/1454/C.java) | `greedy` `implementation` `*1200` | Apr/29/2021 18:42 | 
-707 | [B - Assigning to Classes](https://codeforces.com/contest/1300/problem/B) | [Java 11](./codeforces/1300/B.java) | `greedy` `implementation` `sortings` `*1000` | Apr/29/2021 18:35 | 
-706 | [B1 - Books Exchange (easy version)](https://codeforces.com/contest/1249/problem/B1) | [Java 11](./codeforces/1249/B1.java) | `dsu` `math` `*1000` | Apr/29/2021 18:31 | 
-705 | [B2 - Books Exchange (hard version)](https://codeforces.com/contest/1249/problem/B2) | [Java 11](./codeforces/1249/B2.java) | `dfs and similar` `dsu` `math` `*1300` | Apr/29/2021 18:27 | 
-704 | [C - Yet Another Broken Keyboard](https://codeforces.com/contest/1272/problem/C) | [Java 11](./codeforces/1272/C.java) | `combinatorics` `dp` `implementation` `*1200` | Apr/29/2021 18:18 | 
-703 | [B - Maximum Product](https://codeforces.com/contest/1406/problem/B) | [Java 11](./codeforces/1406/B.java) | `brute force` `dp` `greedy` `implementation` `sortings` `*1200` | Apr/29/2021 18:06 | 
-702 | [D - Pair of Topics](https://codeforces.com/contest/1324/problem/D) | [Java 11](./codeforces/1324/D.java) | `binary search` `data structures` `sortings` `two pointers` `*1400` | Apr/29/2021 08:43 | 
-701 | [A -  Déjà Vu](https://codeforces.com/contest/1504/problem/A) | [Java 11](./codeforces/1504/A.java) | `constructive algorithms` `strings` `*800` | Apr/28/2021 23:32 | 
-700 | [D2 - Sage's Birthday (hard version)](https://codeforces.com/contest/1419/problem/D2) | [Java 11](./codeforces/1419/D2.java) | `binary search` `brute force` `constructive algorithms` `greedy` `sortings` `two pointers` `*1500` | Apr/28/2021 23:22 | 
-699 | [D1 - Sage's Birthday (easy version)](https://codeforces.com/contest/1419/problem/D1) | [Java 11](./codeforces/1419/D1.java) | `binary search` `constructive algorithms` `greedy` `sortings` `*1000` | Apr/28/2021 20:24 | 
-698 | [C - A Cookie for You](https://codeforces.com/contest/1371/problem/C) | [Java 11](./codeforces/1371/C.java) | `greedy` `implementation` `math` `*1300` | Apr/28/2021 19:47 | 
-697 | [C - Dijkstra?](https://codeforces.com/contest/20/problem/C) | [Java 11](./codeforces/20/C.java) | `graphs` `shortest paths` `*1900` | Apr/28/2021 19:07 | 
-696 | [C - Letters](https://codeforces.com/contest/978/problem/C) | [Java 11](./codeforces/978/C.java) | `binary search` `implementation` `two pointers` `*1000` | Apr/27/2021 22:21 | 
-695 | [B - Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | [Java 11](./codeforces/535/B.java) | `bitmasks` `brute force` `combinatorics` `implementation` `*1100` | Apr/27/2021 22:01 | 
-694 | [B - Jumps](https://codeforces.com/contest/1455/problem/B) | [Java 11](./codeforces/1455/B.java) | `constructive algorithms` `math` `*1200` | Apr/27/2021 11:52 | 
-693 | [A - Drazil and Date](https://codeforces.com/contest/515/problem/A) | [Java 11](./codeforces/515/A.java) | `math` `*1000` | Apr/27/2021 10:49 | 
-692 | [A - Jeff and Digits](https://codeforces.com/contest/352/problem/A) | [Java 11](./codeforces/352/A.java) | `brute force` `implementation` `math` `*1000` | Apr/27/2021 09:27 | 
-691 | [B - Kefa and Company](https://codeforces.com/contest/580/problem/B) | [Java 11](./codeforces/580/B.java) | `binary search` `sortings` `two pointers` `*1500` | Apr/26/2021 23:23 | 
-690 | [B - Almost Rectangle](https://codeforces.com/contest/1512/problem/B) | [Java 11](./codeforces/1512/B.java) | `implementation` `*800` | Apr/26/2021 11:28 | 
-689 | [A - Average Height](https://codeforces.com/contest/1509/problem/A) | [Java 11](./codeforces/1509/A.java) | `constructive algorithms` `*800` | Apr/26/2021 11:14 | 
-688 | [A - Contest](https://codeforces.com/contest/501/problem/A) | [Java 11](./codeforces/501/A.java) | `implementation` `*900` | Apr/26/2021 10:48 | 
-687 | [A - Equation](https://codeforces.com/contest/1269/problem/A) | [Java 11](./codeforces/1269/A.java) | `brute force` `math` `*800` | Apr/26/2021 10:42 | 
-686 | [A - Diverse Strings](https://codeforces.com/contest/1144/problem/A) | [Java 11](./codeforces/1144/A.java) | `implementation` `strings` `*800` | Apr/26/2021 09:04 | 
-685 | [A - Perfectly Imperfect Array](https://codeforces.com/contest/1514/problem/A) | [Java 11](./codeforces/1514/A.java) | `math` `number theory` `*800` | Apr/26/2021 09:00 | 
+724 | [A - Common Prefixes](https://codeforces.com/contest/1384/problem/A) | [Java 11](./codeforces/1384/A.java) | `constructive algorithms` `greedy` `strings` `*1200` | May/02/2021 09:43 | 
+723 | [C - Pluses and Minuses](https://codeforces.com/contest/1373/problem/C) | [Java 11](./codeforces/1373/C.java) | `math` `*1300` | May/01/2021 17:21 | 
+722 | [A - The Rank](https://codeforces.com/contest/1017/problem/A) | [Java 11](./codeforces/1017/A.java) | `implementation` `*800` | May/01/2021 14:14 | 
+721 | [A - Lights Out](https://codeforces.com/contest/275/problem/A) | [Java 11](./codeforces/275/A.java) | `implementation` `*900` | Apr/30/2021 14:50 | 
+720 | [B1 - Social Network (easy version)](https://codeforces.com/contest/1234/problem/B1) | [Java 11](./codeforces/1234/B1.java) | `implementation` `*1000` | Apr/29/2021 22:06 | 
+719 | [B2 - Social Network (hard version)](https://codeforces.com/contest/1234/problem/B2) | [Java 11](./codeforces/1234/B2.java) | `data structures` `implementation` `*1300` | Apr/29/2021 22:01 | 
+718 | [B - Non-Substring Subsequence](https://codeforces.com/contest/1451/problem/B) | [Java 11](./codeforces/1451/B.java) | `dp` `greedy` `implementation` `strings` `*900` | Apr/29/2021 21:51 | 
+717 | [C - Building Permutation](https://codeforces.com/contest/285/problem/C) | [Java 11](./codeforces/285/C.java) | `greedy` `implementation` `sortings` `*1200` | Apr/29/2021 21:39 | 
+716 | [A - Array and Peaks](https://codeforces.com/contest/1513/problem/A) | [Java 11](./codeforces/1513/A.java) | `constructive algorithms` `implementation` `*800` | Apr/29/2021 21:32 | 
+715 | [C - Ping-pong](https://codeforces.com/contest/1455/problem/C) | [Java 11](./codeforces/1455/C.java) | `constructive algorithms` `games` `math` `*1100` | Apr/29/2021 21:17 | 
+714 | [A - Prefixes](https://codeforces.com/contest/1216/problem/A) | [Java 11](./codeforces/1216/A.java) | `strings` `*800` | Apr/29/2021 21:07 | 
+713 | [A - Card Game](https://codeforces.com/contest/1270/problem/A) | [Java 11](./codeforces/1270/A.java) | `games` `greedy` `math` `*800` | Apr/29/2021 20:58 | 
+712 | [A - Winner](https://codeforces.com/contest/2/problem/A) | [Java 11](./codeforces/2/A.java) | `hashing` `implementation` `*1500` | Apr/29/2021 19:38 | 
+711 | [B - Shuffle](https://codeforces.com/contest/1366/problem/B) | [Java 11](./codeforces/1366/B.java) | `math` `two pointers` `*1300` | Apr/29/2021 19:10 | 
+710 | [D - Zero Remainder Array](https://codeforces.com/contest/1374/problem/D) | [Java 11](./codeforces/1374/D.java) | `math` `sortings` `two pointers` `*1400` | Apr/29/2021 19:03 | 
+709 | [C - Sequence Transformation](https://codeforces.com/contest/1454/problem/C) | [Java 11](./codeforces/1454/C.java) | `greedy` `implementation` `*1200` | Apr/29/2021 18:42 | 
+708 | [B - Assigning to Classes](https://codeforces.com/contest/1300/problem/B) | [Java 11](./codeforces/1300/B.java) | `greedy` `implementation` `sortings` `*1000` | Apr/29/2021 18:35 | 
+707 | [B1 - Books Exchange (easy version)](https://codeforces.com/contest/1249/problem/B1) | [Java 11](./codeforces/1249/B1.java) | `dsu` `math` `*1000` | Apr/29/2021 18:31 | 
+706 | [B2 - Books Exchange (hard version)](https://codeforces.com/contest/1249/problem/B2) | [Java 11](./codeforces/1249/B2.java) | `dfs and similar` `dsu` `math` `*1300` | Apr/29/2021 18:27 | 
+705 | [C - Yet Another Broken Keyboard](https://codeforces.com/contest/1272/problem/C) | [Java 11](./codeforces/1272/C.java) | `combinatorics` `dp` `implementation` `*1200` | Apr/29/2021 18:18 | 
+704 | [B - Maximum Product](https://codeforces.com/contest/1406/problem/B) | [Java 11](./codeforces/1406/B.java) | `brute force` `dp` `greedy` `implementation` `sortings` `*1200` | Apr/29/2021 18:06 | 
+703 | [D - Pair of Topics](https://codeforces.com/contest/1324/problem/D) | [Java 11](./codeforces/1324/D.java) | `binary search` `data structures` `sortings` `two pointers` `*1400` | Apr/29/2021 08:43 | 
+702 | [A -  Déjà Vu](https://codeforces.com/contest/1504/problem/A) | [Java 11](./codeforces/1504/A.java) | `constructive algorithms` `strings` `*800` | Apr/28/2021 23:32 | 
+701 | [D2 - Sage's Birthday (hard version)](https://codeforces.com/contest/1419/problem/D2) | [Java 11](./codeforces/1419/D2.java) | `binary search` `brute force` `constructive algorithms` `greedy` `sortings` `two pointers` `*1500` | Apr/28/2021 23:22 | 
+700 | [D1 - Sage's Birthday (easy version)](https://codeforces.com/contest/1419/problem/D1) | [Java 11](./codeforces/1419/D1.java) | `binary search` `constructive algorithms` `greedy` `sortings` `*1000` | Apr/28/2021 20:24 | 
+699 | [C - A Cookie for You](https://codeforces.com/contest/1371/problem/C) | [Java 11](./codeforces/1371/C.java) | `greedy` `implementation` `math` `*1300` | Apr/28/2021 19:47 | 
+698 | [C - Dijkstra?](https://codeforces.com/contest/20/problem/C) | [Java 11](./codeforces/20/C.java) | `graphs` `shortest paths` `*1900` | Apr/28/2021 19:07 | 
+697 | [C - Letters](https://codeforces.com/contest/978/problem/C) | [Java 11](./codeforces/978/C.java) | `binary search` `implementation` `two pointers` `*1000` | Apr/27/2021 22:21 | 
+696 | [B - Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | [Java 11](./codeforces/535/B.java) | `bitmasks` `brute force` `combinatorics` `implementation` `*1100` | Apr/27/2021 22:01 | 
+695 | [B - Jumps](https://codeforces.com/contest/1455/problem/B) | [Java 11](./codeforces/1455/B.java) | `constructive algorithms` `math` `*1200` | Apr/27/2021 11:52 | 
+694 | [A - Drazil and Date](https://codeforces.com/contest/515/problem/A) | [Java 11](./codeforces/515/A.java) | `math` `*1000` | Apr/27/2021 10:49 | 
+693 | [A - Jeff and Digits](https://codeforces.com/contest/352/problem/A) | [Java 11](./codeforces/352/A.java) | `brute force` `implementation` `math` `*1000` | Apr/27/2021 09:27 | 
+692 | [B - Kefa and Company](https://codeforces.com/contest/580/problem/B) | [Java 11](./codeforces/580/B.java) | `binary search` `sortings` `two pointers` `*1500` | Apr/26/2021 23:23 | 
+691 | [B - Almost Rectangle](https://codeforces.com/contest/1512/problem/B) | [Java 11](./codeforces/1512/B.java) | `implementation` `*800` | Apr/26/2021 11:28 | 
+690 | [A - Average Height](https://codeforces.com/contest/1509/problem/A) | [Java 11](./codeforces/1509/A.java) | `constructive algorithms` `*800` | Apr/26/2021 11:14 | 
+689 | [A - Contest](https://codeforces.com/contest/501/problem/A) | [Java 11](./codeforces/501/A.java) | `implementation` `*900` | Apr/26/2021 10:48 | 
+688 | [A - Equation](https://codeforces.com/contest/1269/problem/A) | [Java 11](./codeforces/1269/A.java) | `brute force` `math` `*800` | Apr/26/2021 10:42 | 
+687 | [A - Diverse Strings](https://codeforces.com/contest/1144/problem/A) | [Java 11](./codeforces/1144/A.java) | `implementation` `strings` `*800` | Apr/26/2021 09:04 | 
+686 | [A - Perfectly Imperfect Array](https://codeforces.com/contest/1514/problem/A) | [Java 11](./codeforces/1514/A.java) | `math` `number theory` `*800` | Apr/26/2021 09:00 | 
+685 | [A - Even But Not Even](https://codeforces.com/contest/1291/problem/A) | [Java 11](./codeforces/1291/A.java) | `greedy` `math` `strings` `*900` | Apr/26/2021 07:34 | 
 684 | [D - Explorer Space](https://codeforces.com/contest/1517/problem/D) | [Java 11](./codeforces/1517/D.java) | `dp` `graphs` `shortest paths` | Apr/24/2021 13:03 | 
 683 | [C - Fillomino 2](https://codeforces.com/contest/1517/problem/C) | [Java 11](./codeforces/1517/C.java) | `constructive algorithms` `greedy` | Apr/23/2021 21:28 | 
 682 | [B - Morning Jogging](https://codeforces.com/contest/1517/problem/B) | [Java 11](./codeforces/1517/B.java) | `constructive algorithms` `greedy` `sortings` | Apr/23/2021 20:57 | 
