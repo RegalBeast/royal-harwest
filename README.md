@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-730 | [B - Ania and Minimizing](https://codeforces.com/contest/1230/problem/B) | [Java 11](./codeforces/1230/B.java) | `greedy` `implementation` `*1000` | May/06/2021 12:05 | 
-729 | [B - Array Stabilization](https://codeforces.com/contest/1095/problem/B) | [Java 11](./codeforces/1095/B.java) | `implementation` `*900` | May/05/2021 20:52 | 
-728 | [A - Dice Rolling](https://codeforces.com/contest/1093/problem/A) | [Java 11](./codeforces/1093/A.java) | `math` `*800` | May/05/2021 13:44 | 
-727 | [A - Reconnaissance 2](https://codeforces.com/contest/34/problem/A) | [Java 11](./codeforces/34/A.java) | `implementation` `*800` | May/04/2021 16:49 | 
+731 | [B - Ania and Minimizing](https://codeforces.com/contest/1230/problem/B) | [Java 11](./codeforces/1230/B.java) | `greedy` `implementation` `*1000` | May/06/2021 12:05 | 
+730 | [B - Array Stabilization](https://codeforces.com/contest/1095/problem/B) | [Java 11](./codeforces/1095/B.java) | `implementation` `*900` | May/05/2021 20:52 | 
+729 | [A - Dice Rolling](https://codeforces.com/contest/1093/problem/A) | [Java 11](./codeforces/1093/A.java) | `math` `*800` | May/05/2021 13:44 | 
+728 | [A - Reconnaissance 2](https://codeforces.com/contest/34/problem/A) | [Java 11](./codeforces/34/A.java) | `implementation` `*800` | May/04/2021 16:49 | 
+727 | [B - Johnny and His Hobbies](https://codeforces.com/contest/1362/problem/B) | [Java 11](./codeforces/1362/B.java) | `bitmasks` `brute force` `*1200` | May/03/2021 22:23 | 
 726 | [A - Common Prefixes](https://codeforces.com/contest/1384/problem/A) | [Java 11](./codeforces/1384/A.java) | `constructive algorithms` `greedy` `strings` `*1200` | May/02/2021 09:43 | 
 725 | [C - Pluses and Minuses](https://codeforces.com/contest/1373/problem/C) | [Java 11](./codeforces/1373/C.java) | `math` `*1300` | May/01/2021 17:21 | 
 724 | [A - The Rank](https://codeforces.com/contest/1017/problem/A) | [Java 11](./codeforces/1017/A.java) | `implementation` `*800` | May/01/2021 14:14 | 
