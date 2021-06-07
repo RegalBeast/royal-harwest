@@ -8418,6 +8418,24 @@
     ],
     "timestamp": "Jun/07/2021 13:29"
   },
+  "CF118754640": {
+    "contest_id": 224,
+    "language": "Java 11",
+    "path": "codeforces/224/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Parallelepiped",
+    "problem_url": "https://codeforces.com/contest/224/problem/A",
+    "submission_id": "CF118754640",
+    "submission_url": "https://codeforces.com/contest/224/submission/118754640",
+    "tags": [
+      "brute force",
+      "geometry",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/08/2021 01:20"
+  },
   "CF94415312": {
     "contest_id": 4,
     "language": "Java 11",
