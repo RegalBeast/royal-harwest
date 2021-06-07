@@ -8348,6 +8348,24 @@
     ],
     "timestamp": "Jun/06/2021 22:57"
   },
+  "CF118698687": {
+    "contest_id": 1515,
+    "language": "Java 11",
+    "path": "codeforces/1515/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Phoenix and Gold",
+    "problem_url": "https://codeforces.com/contest/1515/problem/A",
+    "submission_id": "CF118698687",
+    "submission_url": "https://codeforces.com/contest/1515/submission/118698687",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/07/2021 13:29"
+  },
   "CF94415312": {
     "contest_id": 4,
     "language": "Java 11",
