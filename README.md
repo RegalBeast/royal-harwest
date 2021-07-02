@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-839 | [A - Broken Keyboard](https://codeforces.com/contest/1251/problem/A) | [Java 11](./codeforces/1251/A.java) | `brute force` `strings` `two pointers` `*1000` | Jul/03/2021 00:52 | 
-838 | [B - Soldier and Badges](https://codeforces.com/contest/546/problem/B) | [Java 11](./codeforces/546/B.java) | `brute force` `greedy` `implementation` `sortings` `*1200` | Jul/02/2021 23:19 | 
-837 | [C2 - Potions (Hard Version)](https://codeforces.com/contest/1526/problem/C2) | [Java 11](./codeforces/1526/C2.java) | `data structures` `greedy` `*1600` | Jul/02/2021 22:49 | 
-836 | [C1 - Potions (Easy Version)](https://codeforces.com/contest/1526/problem/C1) | [Java 11](./codeforces/1526/C1.java) | `brute force` `data structures` `dp` `greedy` `*1500` | Jul/02/2021 22:26 | 
+840 | [A - Broken Keyboard](https://codeforces.com/contest/1251/problem/A) | [Java 11](./codeforces/1251/A.java) | `brute force` `strings` `two pointers` `*1000` | Jul/03/2021 00:52 | 
+839 | [B - Soldier and Badges](https://codeforces.com/contest/546/problem/B) | [Java 11](./codeforces/546/B.java) | `brute force` `greedy` `implementation` `sortings` `*1200` | Jul/02/2021 23:19 | 
+838 | [C2 - Potions (Hard Version)](https://codeforces.com/contest/1526/problem/C2) | [Java 11](./codeforces/1526/C2.java) | `data structures` `greedy` `*1600` | Jul/02/2021 22:49 | 
+837 | [C1 - Potions (Easy Version)](https://codeforces.com/contest/1526/problem/C1) | [Java 11](./codeforces/1526/C1.java) | `brute force` `data structures` `dp` `greedy` `*1500` | Jul/02/2021 22:26 | 
+836 | [B - I Hate 1111](https://codeforces.com/contest/1526/problem/B) | [Java 11](./codeforces/1526/B.java) | `dp` `math` `number theory` `*1400` | Jul/02/2021 22:03 | 
 835 | [A - Circle of Students](https://codeforces.com/contest/1203/problem/A) | [Java 11](./codeforces/1203/A.java) | `implementation` `*1000` | Jun/30/2021 12:14 | 
 834 | [B - Badge](https://codeforces.com/contest/1020/problem/B) | [Java 11](./codeforces/1020/B.java) | `brute force` `dfs and similar` `graphs` `*1000` | Jun/29/2021 21:15 | 
 833 | [B - Reverse Binary Strings](https://codeforces.com/contest/1437/problem/B) | [Java 11](./codeforces/1437/B.java) | `constructive algorithms` `greedy` `*1200` | Jun/29/2021 20:45 | 
