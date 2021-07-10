@@ -13,13 +13,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-871 | [A - Eleven](https://codeforces.com/contest/918/problem/A) | [Java 11](./codeforces/918/A.java) | `brute force` `implementation` `*800` | Jul/11/2021 00:25 | 
-870 | [E - Air Conditioners](https://codeforces.com/contest/1547/problem/E) | [Java 11](./codeforces/1547/E.java) | `data structures` `dp` `implementation` `sortings` `two pointers` | Jul/10/2021 21:27 | 
-869 | [D - Co-growing Sequence](https://codeforces.com/contest/1547/problem/D) | [Java 11](./codeforces/1547/D.java) | `bitmasks` `greedy` | Jul/10/2021 20:59 | 
-868 | [C - Pair Programming](https://codeforces.com/contest/1547/problem/C) | [Java 11](./codeforces/1547/C.java) | `dp` `greedy` `two pointers` | Jul/10/2021 20:41 | 
-867 | [B - Alphabetical Strings](https://codeforces.com/contest/1547/problem/B) | [Java 11](./codeforces/1547/B.java) | `greedy` `implementation` `strings` | Jul/10/2021 20:18 | 
-866 | [A - Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) | [Java 11](./codeforces/1547/A.java) | `implementation` `math` | Jul/10/2021 20:12 | 
-865 | [C - Not Equal](https://atcoder.jp/contests/abc209/tasks/abc209_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc209/C.java) | `AtCoder` `*300` | Jul/10/2021 18:17 | 
+872 | [A - Eleven](https://codeforces.com/contest/918/problem/A) | [Java 11](./codeforces/918/A.java) | `brute force` `implementation` `*800` | Jul/11/2021 00:25 | 
+871 | [E - Air Conditioners](https://codeforces.com/contest/1547/problem/E) | [Java 11](./codeforces/1547/E.java) | `data structures` `dp` `implementation` `sortings` `two pointers` | Jul/10/2021 21:27 | 
+870 | [D - Co-growing Sequence](https://codeforces.com/contest/1547/problem/D) | [Java 11](./codeforces/1547/D.java) | `bitmasks` `greedy` | Jul/10/2021 20:59 | 
+869 | [C - Pair Programming](https://codeforces.com/contest/1547/problem/C) | [Java 11](./codeforces/1547/C.java) | `dp` `greedy` `two pointers` | Jul/10/2021 20:41 | 
+868 | [B - Alphabetical Strings](https://codeforces.com/contest/1547/problem/B) | [Java 11](./codeforces/1547/B.java) | `greedy` `implementation` `strings` | Jul/10/2021 20:18 | 
+867 | [A - Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) | [Java 11](./codeforces/1547/A.java) | `implementation` `math` | Jul/10/2021 20:12 | 
+866 | [C - Not Equal](https://atcoder.jp/contests/abc209/tasks/abc209_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc209/C.java) | `AtCoder` `*300` | Jul/10/2021 18:17 | 
+865 | [D - Collision](https://atcoder.jp/contests/abc209/tasks/abc209_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc209/D.java) | `AtCoder` `*400` | Jul/10/2021 18:02 | 
 864 | [D - Number into Sequence](https://codeforces.com/contest/1454/problem/D) | [Java 11](./codeforces/1454/D.java) | `constructive algorithms` `math` `number theory` `*1300` | Jul/10/2021 09:53 | 
 863 | [A - Ehab and another construction problem](https://codeforces.com/contest/1088/problem/A) | [Java 11](./codeforces/1088/A.java) | `brute force` `constructive algorithms` `*800` | Jul/09/2021 00:47 | 
 862 | [A - Cow and Haybales](https://codeforces.com/contest/1307/problem/A) | [Java 11](./codeforces/1307/A.java) | `greedy` `implementation` `*800` | Jul/08/2021 00:08 | 
